@@ -10,7 +10,7 @@ category: virtualization
 tags: [ubuntu, virtualization, hyper-v] # add tag
 ---
 
-Wanted to change blog look and feel but didn't like the idea of touch any "productive" settings and miss something, so I decided to search for a way to set it up locally and then reply all changes to [GitHub Pages](https://pages.github.com/) at once. This is how I did step by step, because I had some difficulties in the journey.
+Wanted to change blog look and feel but didn't like the idea of touching any "productive" settings and miss something, so I decided to search for a way to set it up locally and then reply all changes to [GitHub Pages](https://pages.github.com/) at once. This is how I did step by step, because I had some difficulties in the journey.
 
 * [Prerequisites](#prerequisites)
 * [Networking Sets](#networking-sets)
