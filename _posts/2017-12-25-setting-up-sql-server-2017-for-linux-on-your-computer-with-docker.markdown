@@ -1,13 +1,13 @@
 ---
 layout: post
 comments: true
-title: Setting up SQL Server 2017 for linux on your computer with Docker
-excerpt: SQL Server 2017 has released new free linux image for Docker, appealing for local development testings
-date: 2017-12-25 08:54:20 +0300
-img: 9.7.png
+title: Configuring Remote Desktop listener certificate
+excerpt: How to set Remote Desktop listener certificate to proper internal CA compatible certificate
+date: 2021-01-04 11:47:20 +0300
+img: 50.1.png
 fig-caption: # Add figcaption (optional)
-category: docker
-tags: [SQL Server, Docker]
+category: certificates
+tags: [RDP, WindowsServer, Security]
 ---
 Frequently, I need to set up lab environment and push/pull data from/to a SQL Server db, but I didn't want to use an external one, but my computer (to work on the go), nor I didn't feel like to install a full heavy SQL Server installation (including its required tons of components), so lately I've been testing SQL Server 2017 with Docker, and results were more spectaculars than I thought in the beginning.
 
