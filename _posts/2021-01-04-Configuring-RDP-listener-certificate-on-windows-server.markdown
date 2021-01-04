@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: Configuring Remote Desktop listener certificate
-excerpt: How to set Remote Desktop listener certificate to proper internal CA compatible certificate
+title: Configuring Remote Desktop listener certificate on Windows Server
+excerpt: How to set Remote Desktop listener certificate to proper internal CA compatible certificate on a Windows Server, domain joined
 date: 2021-01-04 11:47:20 +0300
 img: 50.3.png
 fig-caption: # Add figcaption (optional)
