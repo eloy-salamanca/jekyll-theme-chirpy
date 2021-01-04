@@ -24,8 +24,8 @@ As I had templates deployed in the Active Directory for Remote Desktop Authentic
 Selected previously defined certificate template (only for Remote Desktop Authentication purposes) and click on **Properties** to define Common and Alternative name
 ![Properties on the certificate's template]({{site.baseurl}}/assets/img/50.4.png)
 
-To verify everything worked as expected, press on **Start** **Run** and type `certlm.msc`
-A new nice SSL certificate, CA internal compatible has been released.
+To verify everything worked as expected, pressed **Start** > **Run** and typed `certlm.msc`
+A new nice SSL certificate, CA internal compatible, had been released.
 ![opening certlm.msc]({{site.baseurl}}/assets/img/50.6.png)
 ![Checking for the new certificate]({{site.baseurl}}/assets/img/50.7.png)
 
