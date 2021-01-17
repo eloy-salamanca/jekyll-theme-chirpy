@@ -6,7 +6,7 @@ excerpt: How to connect to Microsoft 365 Services from single PowerShell windows
 date: 2020-05-14 12:43:00 +0300
 img: 45.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: powershell
+category: [powershell]
 tags: [PowerShell, Office365, Microsoft365, ExchangeOnline, SharePointOnline, Teams, AzureAD] # add tag
 ---
 

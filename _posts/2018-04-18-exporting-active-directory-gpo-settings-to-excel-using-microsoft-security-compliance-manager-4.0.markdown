@@ -5,7 +5,7 @@ title: Exporting Active Directory GPO settings to Excel using Microsoft Security
 excerpt: How to successfully export GPO settings to Excel using Microsoft Security Compliance Manager 4.0
 date: 2018-04-18 06:28:20 +0300
 img: 14.11.png # Add image post (optional)
-category: SysAdmin
+category: [SysAdmin]
 tags: [Active Directory, Microsoft Security Compliance, GPO, SCCM, SysAdmin]
 ---
 Lately, I had to get all GPOs and settings from Active Directory, and it wasn’t as easy as I thought in the beginning, because I wanted to get excel files with all current settings for each GPO.

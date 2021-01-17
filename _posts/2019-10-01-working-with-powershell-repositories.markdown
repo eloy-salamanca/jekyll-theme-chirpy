@@ -6,7 +6,7 @@ excerpt: Important to keep our work with PowerShell repositories, keeping them u
 date: 2019-10-01 15:49:00 +0300
 img: 34.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: powershell
+category: [powershell]
 tags: [PowerShell, PowerShell7, IaaC, NuGet, Orquestration, PowerShell Gallery] # add tag
 ---
 

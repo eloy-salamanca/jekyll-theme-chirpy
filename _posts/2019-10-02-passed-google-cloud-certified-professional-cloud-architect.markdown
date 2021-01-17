@@ -6,7 +6,7 @@ excerpt: How I passed Google Cloud Professional Cloud Architect certification ex
 date: 2019-10-02 15:40:00 +0300
 img: 35.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: certification
+category: [certification]
 tags: [certification, GCP, Google, Google Cloud, Google Cloud Platform, GoogleCloudCertificationChallenge] # add tag
 ---
 

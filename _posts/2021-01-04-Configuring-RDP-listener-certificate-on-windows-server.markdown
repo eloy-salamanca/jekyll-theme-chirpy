@@ -6,7 +6,7 @@ excerpt: How to set Remote Desktop listener certificate to proper internal CA co
 date: 2021-01-04 11:47:20 +0300
 img: 50.3.png
 fig-caption: # Add figcaption (optional)
-category: certificates
+category: [certificates]
 tags: [RDP, WindowsServer, Security]
 ---
 

@@ -6,7 +6,7 @@ excerpt: How to create Jekyll Test Blog on Ubuntu Guest VM on top of Hyper-V
 date: 2020-11-20 08:59:00 +0300
 img: 49.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: virtualization
+category: [virtualization]
 tags: [ubuntu, virtualization, hyper-v] # add tag
 ---
 

@@ -6,7 +6,7 @@ excerpt: How to install Windows 10 RSAT feature by only using PowerShell
 date: 2018-12-20 08:55:00 +0300
 img: 26.2.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: PowerShell
+category: [powershell]
 tags: [PowerShell, SysAdmin] # add tag
 ---
 

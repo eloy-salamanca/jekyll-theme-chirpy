@@ -5,7 +5,7 @@ title: Playing with Project Honolulu Technical Preview 1802
 excerpt: New features and improvements of Honolulu Microsoft Project Preview 1802
 date: 2018-04-18 06:28:20 +0300
 img: 13.7.png # Add image post (optional)
-category: SysAdmin
+category: [SysAdmin]
 tags: [Honolulu, Windows Admin Center, Windows Server]
 ---
 Last **February, 13th** new preview of Honolulu Project was released for Windows Insiders, along with new few interesting features and improvements were added, so it's time to check it, as future Windows Server 2018 looks will take advantage of it, and probably we'll use Honololu a lot in the near future.

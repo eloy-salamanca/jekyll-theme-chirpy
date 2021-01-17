@@ -6,7 +6,7 @@ excerpt: Passed AZ100 Microsoft Azure Infrastructure and Deployment
 date: 2018-10-11 10:16:00 +0300
 img: 24.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: certifications
+category: [certifications]
 tags: [az-100, az-101, Azure, Azure Administrator, Cloud, Microsoft] # add tag
 ---
 

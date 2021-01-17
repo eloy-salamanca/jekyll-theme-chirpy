@@ -5,7 +5,7 @@ title: Skype for Business vs Microsoft Teams
 excerpt: Skype for Business vs Microsoft Teams
 date: 2018-06-17 19:45:00 +0300
 img: 22.1.png # Add image post (optional)
-category: Teams
+category: [Teams]
 fig-caption: # Add figcaption (optional)
 tags: [Microsoft, Microsoft Teams, Skype, Skype for Business, Teams] # add tag
 ---

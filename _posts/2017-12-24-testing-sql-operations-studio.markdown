@@ -5,7 +5,7 @@ title: Testing SQL Operations Studio
 excerpt: Playing with SQL Operations Studio (preview) for Windows, a light (portable) app to manage SQL Server workloads
 date: 2017-12-24 07:16:00 +0300
 img: 8.1.png
-category: sql-server
+category: [sql-server]
 tags: [SQL Server]
 ---
 

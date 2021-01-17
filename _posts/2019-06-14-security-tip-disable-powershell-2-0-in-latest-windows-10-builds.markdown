@@ -6,7 +6,7 @@ excerpt: It does not make a lot of sense having different PowerShell versions at
 date: 2019-06-14 07:24:00 +0300
 img: 33.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: powershell
+category: [powershell]
 tags: [PowerShell, Windows 10] # add tag
 ---
 

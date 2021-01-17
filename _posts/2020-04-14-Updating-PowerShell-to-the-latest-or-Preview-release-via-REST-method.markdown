@@ -6,7 +6,7 @@ excerpt: How to upgrade PowerShell to the last version throughout internet
 date: 2020-04-14 11:10:00 +0300
 img: 43.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: powershell
+category: [powershell]
 tags: [PowerShell] # add tag
 ---
 

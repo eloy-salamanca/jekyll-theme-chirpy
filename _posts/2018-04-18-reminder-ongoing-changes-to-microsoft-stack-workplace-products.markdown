@@ -6,7 +6,7 @@ excerpt: Ongoing changes table to Microsoft Workplace Products
 date: 2018-04-18 18:27:00 +0300
 img: 15.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: Workplace
+category: [Workplace]
 tags: [Microsoft 365, Office 2019, Office 365, Windows 10, Windows 7, Windows 8] # add tag
 ---
 

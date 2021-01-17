@@ -6,7 +6,7 @@ excerpt: How to enable PowerShell remotely to run scripts
 date: 2018-01-10 10:35:00 +0300
 img: 11.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: PowerShell
+category: [powershell]
 tags: [PowerShell] # add tag
 ---
 

@@ -6,7 +6,7 @@ excerpt: Servicing changes to Windows Server 2008 SP2
 date: 2018-08-21 18:03:00 +0300
 img: 23.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: windows-server
+category: [windows-server]
 tags: [Servicing Model, Windows 10, Windows Server, Windows Server Update Services, Windows Update, WSUS] # add tag
 ---
 

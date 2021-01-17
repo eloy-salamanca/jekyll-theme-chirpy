@@ -5,7 +5,7 @@ title: PowerShell most common installers for admins
 excerpt: Last installers and modules to get your PowerShell toolset ready
 date: 2019-05-02 10:45:00 +0300
 img: 12.1.png # Add image post (optional)
-category: PowerShell
+category: [powershell]
 tags: [Azure, Azure Stack, Docker, Exchange Online, Office365, PowerShell, SharePoint, Skype for Business, SysAdmin] # add tag
 ---
 Have you ever change computer and went mad trying to recap all required installers for your daily work?

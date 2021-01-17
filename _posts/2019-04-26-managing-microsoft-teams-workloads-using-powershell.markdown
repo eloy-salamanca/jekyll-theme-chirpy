@@ -6,7 +6,7 @@ excerpt: How que get Microsoft Teams clean and sorted as the number of teams gro
 date: 2019-04-26 09:18:00 +0300
 img: 29.2.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: powershell
+category: [powershell]
 tags: [PowerShell, SysAdmin, Flows, Microsoft Teams] # add tag
 ---
 

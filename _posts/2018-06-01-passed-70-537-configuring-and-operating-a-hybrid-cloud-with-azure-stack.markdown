@@ -7,6 +7,7 @@ date: 2018-06-01 07:35:00 +0300
 category: certification
 img: 21.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+category: [powershell]
 tags: [PowerShell] # add tag
 ---
 

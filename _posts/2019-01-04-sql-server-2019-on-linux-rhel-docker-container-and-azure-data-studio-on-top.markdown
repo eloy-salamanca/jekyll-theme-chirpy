@@ -6,7 +6,7 @@ excerpt: How to install SQL Server 2019 on Linux RHEL Docker Container and acces
 date: 2019-01-04 12:52:00 +0300
 img: 27.3.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: docker
+category: [docker]
 tags: [PowerShell, Docker, SQL Server] # add tag
 ---
 

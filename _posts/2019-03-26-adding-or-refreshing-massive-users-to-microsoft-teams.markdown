@@ -6,7 +6,7 @@ excerpt: How to add a bunch of users to specific Microsoft Teams easily
 date: 2019-03-26 11:35:00 +0300
 img: 28.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: Teams
+category: [Teams]
 tags: [PowerShell, Active Directory, Microsoft 365, Microsoft Teams, Office365] # add tag
 ---
 

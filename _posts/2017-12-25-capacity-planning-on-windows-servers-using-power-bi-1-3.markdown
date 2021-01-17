@@ -6,7 +6,7 @@ excerpt: How to enable do make Capacity Planning on Windows Servers using PowerS
 date: 2017-12-25 19:15:00 +0300
 img: 36.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: powershell
+category: [powershell]
 tags: [Capacity Plan, PowerShell, SysAdmin] # add tag
 ---
 

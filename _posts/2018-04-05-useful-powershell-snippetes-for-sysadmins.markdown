@@ -6,7 +6,7 @@ excerpt: Sometimes I need to re-use old PowerShell snippets, but I had difficult
 date: 2018-04-18 17:39:00 +0300
 img: 18.5.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: PowerShell
+category: [powershell]
 tags: [PowerShell, Sysadmin] # add tag
 ---
 

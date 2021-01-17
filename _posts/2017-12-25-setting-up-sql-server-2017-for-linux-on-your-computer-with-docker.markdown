@@ -6,7 +6,7 @@ excerpt: SQL Server 2017 has released new free linux image for Docker, appealing
 date: 2017-12-25 08:54:20 +0300
 img: 9.7.png
 fig-caption: # Add figcaption (optional)
-category: docker
+category: [docker]
 tags: [SQL Server, Docker]
 ---
 Frequently, I need to set up lab environment and push/pull data from/to a SQL Server db, but I didn't want to use an external one, but my computer (to work on the go), nor I didn't feel like to install a full heavy SQL Server installation (including its required tons of components), so lately I've been testing SQL Server 2017 with Docker, and results were more spectaculars than I thought in the beginning.

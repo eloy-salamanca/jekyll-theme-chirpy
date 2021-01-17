@@ -6,7 +6,7 @@ excerpt: How to implement random Local Administrator Password Solution
 date: 2018-05-03 08:08:00 +0300
 img: 19.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: Security
+category: [Security]
 tags: [Active Directory, Administrator, LAPS, SysAdmin, Security, Microsoft, Password] # add tag
 ---
 

@@ -6,7 +6,7 @@ excerpt: How to enable PowerShell remotely to run scripts
 date: 2017-12-24 19:46:00 +0300
 img: 39.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: powershell
+category: [powershell]
 tags: [PowerShell, Capacity Plan, SysAdmin] # add tag
 ---
 

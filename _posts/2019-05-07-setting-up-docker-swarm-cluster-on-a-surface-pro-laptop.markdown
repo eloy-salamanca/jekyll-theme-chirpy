@@ -6,7 +6,7 @@ excerpt: It is possible to set up a lab on Windows 10 for Docker Swarm and use i
 date: 2019-05-07 12:26:00 +0300
 img: 32.7.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: powershell
+category: [powershell]
 tags: [Command Console, Docker, Docker Swarm, Hyper-V, Microsoft Surface, Virtualization, Windows 10] # add tag
 ---
 

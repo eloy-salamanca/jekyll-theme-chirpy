@@ -6,7 +6,7 @@ excerpt: Tips and Tricks for Visual Studio users
 date: 2018-05-09 13:59:00 +0300
 img: 20.3.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: visual-studio
+category: [visual-studio]
 tags: [PowerShell, Visual Studio] # add tag
 ---
 

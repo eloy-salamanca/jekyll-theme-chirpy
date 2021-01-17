@@ -6,7 +6,7 @@ excerpt: Playing with next delivery of Project Honolulu Technical Preview 1803
 date: 2018-05-02 10:43:00 +0300
 img: 16.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: SysAdmin
+category: [SysAdmin]
 tags: [Honolulu, Windows Admin Center, Windows Server] # add tag
 ---
 

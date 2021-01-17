@@ -5,7 +5,7 @@ title: Testing Project Honolulu Technical Preview 1712
 excerpt: Trying Microsoft Project Honolulu Technical Preview 1712 interesting characteristics
 date: 2017-12-26 11:36:00 +0300
 img: 10.3.png # Add image post (optional)
-category: SysAdmin
+category: [SysAdmin]
 tags: [Honolulu, Windows Admin Center, Windows Server] # add tag
 ---
 Microsoft Project Honolulu comes with energy to our sysadmin life and thinking to stay. Very soft and handy, powerful, and offering almost all required tools and functionalities to monitor and administer Windows Systems. One only place collecting all useful features, even remote PowerShell console, Hyper-V Manager or Remote Desktop capabilities.

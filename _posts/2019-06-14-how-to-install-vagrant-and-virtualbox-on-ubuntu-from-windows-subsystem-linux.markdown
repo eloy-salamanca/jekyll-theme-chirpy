@@ -6,7 +6,7 @@ excerpt: How to install Vagrant and VirtualBox on Ubuntu that comes with Windows
 date: 2019-06-14 12:46:00 +0300
 img: 31.1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: wsl
+category: [wsl]
 tags: [Linux, Vagrant, VirtualBox, Virtualization, Windows 10, WSL] # add tag
 ---
 

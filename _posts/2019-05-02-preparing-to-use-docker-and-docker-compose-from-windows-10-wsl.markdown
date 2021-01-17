@@ -6,7 +6,7 @@ excerpt: See how to prepare your Docker on Windows 10 installation to use on WSL
 date: 2019-05-02 14:30:00 +0300
 img: 30.8.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: docker
+category: [docker]
 tags: [Docker, docker-compose, Hyper-V, Linux, Windows 10, WSL] # add tag
 ---
 

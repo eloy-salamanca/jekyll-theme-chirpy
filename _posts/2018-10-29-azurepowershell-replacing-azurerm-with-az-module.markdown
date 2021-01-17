@@ -6,7 +6,7 @@ excerpt: Getting PowerShell toolset up to date by replacing AzureRM with Az Modu
 date: 2018-10-29 14:36:00 +0300
 img: 25.4.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-category: PowerShell
+category: [powershell]
 tags: [PowerShell, Azure] # add tag
 ---
 
